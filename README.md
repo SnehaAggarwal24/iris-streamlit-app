@@ -23,3 +23,4 @@ git clone https://github.com/SnehaAggarwal24/iris-streamlit-app.git
 cd iris-streamlit-app
 pip install -r requirements.txt
 streamlit run app.py
+https://snehaaggarwal24-iris-streamlit-app-app-wv2sly.streamlit.app/
